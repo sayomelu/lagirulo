@@ -1,4 +1,4 @@
-# basic word
+# basic
 
 j = æ
 
