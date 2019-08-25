@@ -2,38 +2,38 @@
 
 - yatiomaku = yama
 - yatiha - eat, drink-as-high = tasty
-- yatimo - eat, drink-of-thing = food, meal, drink
+- yatimo - eat, drink-thing = food, meal, drink
 
-- yamaojobi: meal(cook)-of-job = cook
-- yatiojobi: eat-as-job = taste tester
-- yamaotulo: cook-of-tool = cooker
-- yamaopesi: cook-of-place = kitchen
-- yatiopesi: eat-of-place = restaurant
-- yatiotulo: eat tool = tableware
+- yamajobi: meal(cook)-job = cook
+- yatijobi: eat-as-job = taste tester
+- yamatulo: cook-tool = cooker
+- yamapesi: cook-place = kitchen
+- yatipesi: eat-place = restaurant
+- yatitulo: eat tool = tableware
 
 cook is cooking a meal in his kitchen.
-miloojabi milo yatimo yo si milopesi.
+milojabi milo yatimo yo si milopesi.
 
-- fareojobi: fire-of-job = fireman
-- yamaojobi: meal(cook)-of-job = cook
-- yatiojobi: eat-as-job = taste tester
-- yamaotulo: cook-of-tool = cooker
-- yamaopesi: cook-of-place = kitchen
-- yatiopesi: eat-of-place = restaurant
-- yatiotulo: eat tool = tableware
+- farejobi: fire-job = fireman
+- yamajobi: meal(cook)-job = cook
+- yatijobi: eat-as-job = taste tester
+- yamatulo: cook-tool = cooker
+- yamapesi: cook-place = kitchen
+- yatipesi: eat-place = restaurant
+- yatitulo: eat tool = tableware
 
-- yatiomaku = yama
+- yatimaku = yama
 - yatiha - eat, drink-as-high = tasty
-- yatimo - eat, drink-of-thing = food, meal, drink
+- yatimono - eat, drink-thing = food, meal, drink
 
 cook is cooking a meal in his kitchen.
-miloojabi milo yatimo yo si milopesi.
+milojabi milo yatimo yo si milopesi.
 
-- si ya fareojobi.
+- si ya farejobi.
 - he/she am a fireman.
 
-- si yati milo ma miloojobi maku.
+- si yati milo ma milojobi maku.
 - he/she eat the meal the cooker cooked
 
-- si walo ma buti yatiotulo.
+- si walo ma buti yatitulo.
 - he/she want that beautiful tableware

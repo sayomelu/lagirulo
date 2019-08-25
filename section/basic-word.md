@@ -1,5 +1,7 @@
 # basic word
 
+j = æ
+
 ## number + symble
 
 | number + symble | lagirulo |
@@ -15,6 +17,9 @@
 |        9        |    ha    |
 |       \+        |    pa    |
 |       \-        |    fu    |
+|        *        |    ?     |
+|        /        |    be    |
+|        =        |    tj    |
 
 ## pronoun
 
@@ -22,7 +27,7 @@
 | :---------------------: | :------: |
 |            i            |    mo    |
 |           you           |    tu    |
-| he, she, it, this, that |    so    |
+| he, she, it, this, that |    si    |
 |       am, is, are       |    ya    |
 
 ## preposition

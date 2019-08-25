@@ -1,10 +1,10 @@
 # djta
 
-- djta: djniso tamo = rotate time
-- djni-so: turn-is = rotate
+- djta: djnisi tamo = rotate time
+- djni-si: turn-is = rotate
 
 - djta = day
-- djtaso = today
+- djtasi = today
 - djtafu = yesterday
 - djtafure = the day before yesterday
 - djtapa = tomorrow
@@ -16,7 +16,7 @@
 
 ## example
 
-- so ya buti djta!
+- si ya buti djta!
 - it is beautiful day
 
 - djtafu sjma ya!
