@@ -7,8 +7,8 @@
 - djtasi = today
 - djtafu = yesterday
 - djtafure = the day before yesterday
-- djtapa = tomorrow
-- djtaparj = the day after tomorrow
+- djtaha = tomorrow
+- djtaharj = the day after tomorrow
 
 - djtati: djta-[ti](/section/basic-word#number) = day seven = week
 - djtatilo = weekend

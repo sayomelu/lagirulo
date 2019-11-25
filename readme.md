@@ -2,5 +2,4 @@
 
 ## todo
 
-- [ ] translate 'le peti prince'
 - [ ] x = ?
